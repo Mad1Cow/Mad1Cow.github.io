@@ -9,7 +9,7 @@ let elfFNameArray = [
     'Drusilia', 'Enna', 'Felosial', 'Ielenia', 'Jelenneth', 'Keyleth', 'Leshanna', 'Lia',
     'Meriele', 'Mialee', 'Naivara', 'Quelenna', 'Quillathe', 'Sariel', 'Shanairra', 'Shava', 'Silaqui',
     'Theirastra', 'Thia', 'Vadania', 'Valanthe', 'Xanaphia'
-]
+];
 
 let randomNameM = parseInt(Math.random() * elfMNameArray.length);
 let randomNameF = parseInt(Math.random() * elfFNameArray.length);
